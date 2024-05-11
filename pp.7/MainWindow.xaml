@@ -1,0 +1,30 @@
+﻿<Window x:Class="pp._7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pp._7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="332" Width="490">
+    <Grid Background="#FFA7C3A6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="115*"/>
+            <RowDefinition Height="143*"/>
+            <RowDefinition Height="58*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Добро пожаловать в сетевой чат!" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="214" Height="26" Grid.RowSpan="2"  Background="#FFA7C3A6"/>
+        <TextBox x:Name="z" Margin="27,57,27,0" TextWrapping="Wrap" Text="Введите свое имя пользователя" VerticalAlignment="Top" Height="25" FontFamily="Monotype Corsiva" FontSize="14" Foreground="#FF3A3434" BorderBrush="Black" SelectionBrush="Black" Grid.RowSpan="2"  Background="#FFA7C3A6" TextChanged="TextBox_TextChanged"/>
+        <Button x:Name="x" Content="Создать новый чат" HorizontalAlignment="Center" Margin="0,43,0,0" VerticalAlignment="Top" Width="436" Height="34" Grid.Row="2" Foreground="#FF060606" BorderBrush="Black" Background="#FF649765" Click="Button_Click"/>
+        <Button x:Name="c" Content="Подключится к существующему" HorizontalAlignment="Center" Margin="0,99,0,0" VerticalAlignment="Top" Width="436" Height="34" Grid.Row="2" Foreground="#FF060606" BorderBrush="Black" Background="#FF649765" Click="Button_Click_1"/>
+        <TextBox x:Name="v" HorizontalAlignment="Center" TextWrapping="Wrap" Text="IP адрес чата" VerticalAlignment="Center"  Width="436" Height="25" FontFamily="Monotype Corsiva" FontSize="14" Foreground="#FF3A3434" BorderBrush="Black" Grid.Row="3"  Background="#FFA7C3A6" TextChanged="TextBox_TextChanged_1">
+            <TextBox.SelectionBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.SelectionBrush>
+        </TextBox>
+
+    </Grid>
+</Window>

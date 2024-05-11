@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|solutionrelative:pp.7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\chatowerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|solutionrelative:pp.7\\chatowerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\chatuser1window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|solutionrelative:pp.7\\chatuser1window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\chatowerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|solutionrelative:pp.7\\chatowerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|solutionrelative:pp.7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\chatuser1window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885BDF2B-0B75-451C-BFA9-6EDD9BF032F3}|pp.7\\pp.7.csproj|solutionrelative:pp.7\\chatuser1window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatUser1Window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\ChatUser1Window.xaml.cs",
+              "RelativeDocumentMoniker": "pp.7\\ChatUser1Window.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\ChatUser1Window.xaml.cs",
+              "RelativeToolTip": "pp.7\\ChatUser1Window.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:06:41.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatOwerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\ChatOwerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pp.7\\ChatOwerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\ChatOwerWindow.xaml.cs",
+              "RelativeToolTip": "pp.7\\ChatOwerWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwCgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:58:30.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatOwerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\ChatOwerWindow.xaml",
+              "RelativeDocumentMoniker": "pp.7\\ChatOwerWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\ChatOwerWindow.xaml",
+              "RelativeToolTip": "pp.7\\ChatOwerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T08:21:29.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatUser1Window.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\ChatUser1Window.xaml",
+              "RelativeDocumentMoniker": "pp.7\\ChatUser1Window.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\ChatUser1Window.xaml",
+              "RelativeToolTip": "pp.7\\ChatUser1Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T08:13:58.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "pp.7\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\MainWindow.xaml",
+              "RelativeToolTip": "pp.7\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T07:41:07.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pp.7\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pp.7\\pp.7\\MainWindow.xaml.cs",
+              "RelativeToolTip": "pp.7\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:41:06.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
